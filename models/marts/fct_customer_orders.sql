@@ -31,6 +31,7 @@ customer_orders as (
     group by 1
 ),
 
+
 x as(
 
     select
